@@ -1,0 +1,23 @@
+[
+   {
+    "role":"student",
+    "access":{
+            "lecture":"R"
+        }
+    
+   },
+   {
+    "role":"instructor",
+    "access":{
+            "lecture":"CRU"
+        }
+    
+   },
+   {
+    "role":"admin",
+    "access":{
+            "lecture":"CRUD"
+        }
+    
+   }
+]
